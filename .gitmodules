@@ -71,3 +71,8 @@
 	path = prisehub/phhr
 	url = git@github.com:prisehub/phhr.git
 	branch = 12.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 12.0
