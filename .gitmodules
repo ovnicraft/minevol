@@ -20,7 +20,7 @@
 
 [submodule "ovnicraft/odooec"]
 	path = ovnicraft/odooec
-	url = git@github.com:ovnicraft/odooec.git
+	url = git@github.com:prisehub/l10n-ec.git
 	branch = 12.0
 
 [submodule "OCA/stock-logistics-warehouse"]
