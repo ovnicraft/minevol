@@ -18,11 +18,6 @@
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 12.0
 
-[submodule "ovnicraft/odooec"]
-	path = ovnicraft/odooec
-	url = git@github.com:prisehub/l10n-ec.git
-	branch = 12.0
-
 [submodule "OCA/stock-logistics-warehouse"]
 	path = OCA/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
